@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lorenzo 👋
 
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=br3sc4&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
