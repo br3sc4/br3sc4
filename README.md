@@ -3,7 +3,6 @@
 I'm a Software Engineer from Ferrara currently attending the Apple Developer Academy in Naples.
 
 [![Linkedin Badge](https://img.shields.io/badge/-br3sc4-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/br3sc4/)](https://www.linkedin.com/in/br3sc4)
-[![Twitter Badge](https://img.shields.io/badge/-@1_br3sc4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/1_br3sc4)
 
 ## Languages
 
